@@ -1,0 +1,9 @@
+{
+    "path" : "~/statsexamples",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
